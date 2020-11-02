@@ -1,7 +1,7 @@
 public class MyClass {
     
     public int niceMehtod() {
-        int nice = 10;
+        int nice = 11;
         return nice;
     }
     
