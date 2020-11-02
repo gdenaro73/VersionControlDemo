@@ -1,7 +1,7 @@
 public class MyClass {
     
-    public int niceMehtod() {
-        int nice = 67;
+    public int niceMethod() {
+        int nice = 54;
         return nice;
     }
     
