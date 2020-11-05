@@ -1,2 +1,6 @@
 class BiancaStan{
+
+	public void(){
+	}
+
 }
