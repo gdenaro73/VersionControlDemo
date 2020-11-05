@@ -16,4 +16,8 @@ public class Maria {
         System.out.println(this.default_);
     }
 
+    public void dummySetter(String default_) {
+        this.default_ = default_;
+    }
+
   }
