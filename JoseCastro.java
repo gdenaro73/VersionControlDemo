@@ -4,4 +4,9 @@ public class JoseCastro {
       int x = 10;
     }
 
+    public static void method() {
+
+        int y = 20;
+    }
+
 }
