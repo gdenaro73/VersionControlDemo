@@ -1,7 +1,7 @@
 public class MyClass {
     
     public String niceMethod() {
-        String nice = "Alecci";
+        String nice = "Castro";
         return nice;
     }
     
