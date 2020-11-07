@@ -3,6 +3,6 @@ public class ChunhuaHe{
 		int x = 0;
     }
     public int newMethod(){
-        return(1);
+        return(0);
     }
 }
