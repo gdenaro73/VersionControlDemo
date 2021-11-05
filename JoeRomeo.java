@@ -1,5 +1,9 @@
 public class JoeRomeo {
     public int joe() {
-        return 0;
+        return "Joe";
+    }
+
+    public int romeo() {
+        return "Romeo";
     }
 }
