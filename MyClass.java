@@ -1,8 +1,8 @@
 public class MyClass {
-    
+
     public String niceMethod() {
-        String nice = "giovanni & ali";        
-        return nice;
+        String Tereh = "giovanni & ali";
+        return Tereh;
     }
-    
+
 }
