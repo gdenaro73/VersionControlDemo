@@ -1,3 +1,9 @@
-public class DeepanshaChowdhary{
-	int x = 5;
+public class DeepanshaChowdhary {
+	static void randomMethod() {
+		System.out.println("random text");
+	}
+	public static void main(String[] args) {
+		randomMethod();
+
+	}
 }
