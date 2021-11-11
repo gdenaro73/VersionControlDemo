@@ -1,8 +1,8 @@
 public class MyClass {
     
     public String niceMethod() {
-        String Rava = "we are updating this string at the moment but, if you experience any conflict, please do not hesitate to modify it to set the value that you have chosen";
-        return Rava;
+        String Erdogan = "we are updating this string at the moment but, if you experience any conflict, please do not hesitate to modify it to set the value that you have chosen";
+        return Erdogan;
     }
     
 }
