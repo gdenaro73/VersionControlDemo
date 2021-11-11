@@ -5,4 +5,6 @@ public class IsabellaFairman {
         this.nameSurname = nameSurname;
     }
 
+    public int addingMethod(int a, int b){return a+b;}
+
 }
