@@ -1,1 +1,6 @@
-public class SimoneRava{}
+public class SimoneRava{
+
+    public void DoNothing(){
+
+    }
+}
