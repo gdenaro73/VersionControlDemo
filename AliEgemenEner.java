@@ -1,5 +1,6 @@
 public class AliEgemenEner {
-    public int aMethod() {
-        return 0;
+    public int Everything () {
+
+        return 42;
     }
 }
