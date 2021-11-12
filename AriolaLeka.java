@@ -1,12 +1,11 @@
 public class AriolaLeka {
-    static void myMethod() {
-        System.out.println("Git is very interesting!");
-      }
+    public int aMethod() {
+        return 0;
+    }
     
-      public static void main(String[] args) {
-        myMethod();
-        myMethod();
-        myMethod();
-      }
+    public void method1(){
+        return;
+    }
+
 }
 
